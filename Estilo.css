@@ -1,0 +1,23 @@
+.ajus{
+  width:150px;
+  height: auto;
+}
+.todo{
+  width: 100%;
+  height: auto;
+  justify-content:center;
+  display: flex;
+}
+.contenido{
+  width: 70%;
+  height: auto;
+}
+.mLetra{
+  font-size: 20px;
+}
+.mls{
+  background: #f8f8fa;
+}
+.cont{
+  background: #e9ecef;
+}
